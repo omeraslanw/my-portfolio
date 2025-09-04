@@ -4,7 +4,7 @@
 
 Bu proje, React, Vite ve Tailwind CSS kullanılarak oluşturulmuş modern ve tamamen duyarlı (responsive) bir kişisel portfolyo web sitesidir. Yazılım geliştirme becerilerimi ve projelerimi sergilemek amacıyla hazırlanmıştır.
 
-**[Canlı Demo](https://kullaniciadiniz.github.io/projeniz/)**
+**[Canlı Demo](https://omerfarukaslanportfolio.netlify.app/)**
 
 ## Özellikler
 
@@ -27,7 +27,7 @@ Bu projenin geliştirilmesinde aşağıdaki teknolojiler ve araçlar kullanılm�
 - **API:**
   - [GitHub API](https://docs.github.com/en/rest)
 - **Deployment:**
-  - - GitHub Pages
+  - [Netlify](https://app.netlify.com/)
 
 ## Projeyi Yerel Makinede Çalıştırma
 
@@ -38,7 +38,9 @@ Bu projeyi kendi makinenizde çalıştırmak için aşağıdaki adımları izley
 git clone https://github.com/omeraslanw/my-portfolio.git
 ```
 **2. Visual Studio Code üzerinden projeyi açın**
+
 **3. Terminal üzerinde projenin bulunduğu dizine gidin**
+
 **4. Terminalden bağımlılıkları indirin**
 ```bash
 npm install
